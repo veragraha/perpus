@@ -1,0 +1,21 @@
+.chatcolor-kuning{
+	background-color: #f0ad4e;
+        padding: 6px;
+        /* border-radius: 30px; */
+        border-bottom-left-radius: 24px;
+        border-bottom-right-radius: 28px;
+        border-top-right-radius: 28px;
+        margin-top: 6px;
+        color: black;
+}
+
+.chatcolor-hijau{
+	background-color: #099;
+        padding: 6px;
+        /* border-radius: 30px; */
+        border-bottom-left-radius: 24px;
+        border-bottom-right-radius: 28px;
+        border-top-right-radius: 28px;
+        margin-top: 6px;
+        color: black;
+}
